@@ -3,5 +3,11 @@
   "compatibility_date": "2025-03-25",
   "assets": {
     "directory": "./"
-  }
+  },
+  "routes": [
+    {
+      "pattern": "customgames.store/*",
+      "zone_id": "6634a1d864c5fd012b5f6c75593c13ae"
+    }
+  ]
 }
